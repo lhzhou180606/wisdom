@@ -54,36 +54,7 @@ https://gitee.com/dnxt111/wisdom.git
 ```
 请参考每个工程都有READEME.md文档（详细的开发性文档）
 ```
-## 十，适用场景与案例
-<table>
-    <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/视频与控制系统.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/智慧农业控制.jpg"/></td>
-    </tr>
-     <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/智慧农业视频监控.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/水肥一体联动系统.jpg"/></td>
-    </tr>
-     <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/大棚卷帘系统.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/大屏.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/溯源系统.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/专家问答系统.jpg"/></td>
-    </tr>
-     
-</table>
-
-## 十一，实施现场和PC/手机端截图
+## 十，实施现场和PC/手机端截图
 <table>
     <tr>
         <td><img src="http://shenqihezi.nxptdn.com/wisdom/case/贺兰县落地现场1.jpg"/></td>
@@ -113,6 +84,37 @@ https://gitee.com/dnxt111/wisdom.git
         <td><img src="http://shenqihezi.nxptdn.com/wisdom/mobile/控制器设置.png"/></td>
     </tr>
 </table>
+
+## 十一，满足以下场景，但不限于
+<table>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/视频与控制系统.jpg"/></td>
+    </tr>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/智慧农业控制.jpg"/></td>
+    </tr>
+     <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/智慧农业视频监控.jpg"/></td>
+    </tr>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/水肥一体联动系统.jpg"/></td>
+    </tr>
+     <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/大棚卷帘系统.jpg"/></td>
+    </tr>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/大屏.jpg"/></td>
+    </tr>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/溯源系统.jpg"/></td>
+    </tr>
+    <tr>
+        <td><img src="http://shenqihezi.nxptdn.com/wisdom/design/专家问答系统.jpg"/></td>
+    </tr>
+     
+</table>
+
+
 
 ## 十二，代码贡献者鸣谢
 陈鹤文、徐帅、梁亮、梁明、任伟军
